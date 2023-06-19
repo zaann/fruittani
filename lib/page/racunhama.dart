@@ -16,7 +16,7 @@ class RacunHamaPage extends StatelessWidget {
               children: <Widget>[
                 SizedBox(height: 16.0),
                 Text(
-                  'Pupuk Organik Cair',
+                  'RACUN 1',
                   style: TextStyle(
                     fontSize: 20.0,
                     fontWeight: FontWeight.bold,
@@ -44,7 +44,7 @@ class RacunHamaPage extends StatelessWidget {
               children: <Widget>[
                 SizedBox(height: 16.0),
                 Text(
-                  'Pupuk Kandang',
+                  'RACUN 2',
                   style: TextStyle(
                     fontSize: 20.0,
                     fontWeight: FontWeight.bold,
@@ -72,7 +72,7 @@ class RacunHamaPage extends StatelessWidget {
               children: <Widget>[
                 SizedBox(height: 16.0),
                 Text(
-                  'Pupuk NPK',
+                  'RACUN3',
                   style: TextStyle(
                     fontSize: 20.0,
                     fontWeight: FontWeight.bold,
